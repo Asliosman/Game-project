@@ -1,0 +1,19 @@
+HOW TO PLAY
+-----------
+Use the main menu to prepare, then start the fight:
+
+  1. Start game       - begin the fight against the aliens
+  2. Show aliens      - list the aliens
+  3. Quit             - save your progress and leave
+  4. Move to another room (Village, Forest, Cave)
+  5. Collect the item in your current room
+  6. Show your inventory
+  7. Look around the current room
+
+IN A FIGHT
+  1. Attack - hurt the alien (a defeated alien gives you 10 reward points)
+  2. Hide   - 50% chance the alien will not find you
+  3. Run    - you lose 5 reward points
+
+You win by defeating all the aliens. You lose if your health reaches 0.
+

@@ -1,0 +1,39 @@
+{
+  "health": 40,
+  "reward": 25,
+  "location": "Village",
+  "inventory": [
+    {
+      "name": "Bucket",
+      "weight": 2.5
+    }
+  ],
+  "rooms": {
+    "Village": null,
+    "Forest": {
+      "name": "Torch",
+      "weight": 1.0
+    },
+    "Cave": {
+      "name": "Map",
+      "weight": 0.2
+    }
+  },
+  "aliens": [
+    {
+      "name": "Zorg",
+      "health": 0,
+      "attack_power": 20
+    },
+    {
+      "name": "Blip",
+      "health": 0,
+      "attack_power": 20
+    },
+    {
+      "name": "Krax",
+      "health": 0,
+      "attack_power": 20
+    }
+  ]
+}
